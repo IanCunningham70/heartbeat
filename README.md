@@ -1,4 +1,4 @@
-# heartbeat 2021
+# heartbeat - the next generation
 
 A new version of the heartbeat music collection for 2021
 
